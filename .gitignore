@@ -2,3 +2,4 @@ constituencies
 venv
 *.kml
 .idea
+config.json
