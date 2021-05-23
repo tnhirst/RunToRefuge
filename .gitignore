@@ -1,4 +1,7 @@
+# Shapefile folders
 constituencies
+schools
+
 venv
 *.kml
 .idea
